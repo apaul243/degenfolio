@@ -31,7 +31,7 @@ Degenfolio is the first of its kind, multi-chain portfolio and tax analysis tool
 -- For ex: When you enter your ethereum wallet address, we will run our different platform specific parsers(i.e Aave, Compound,      Polygon etc.) and these          parsers will find out what kind of tx it is using the emitted events and qualify it as so. \
 -- After processing all your txs from all the sources, we have rendered it to the UI in form of graphs and a source based filter.
 
-<b> HOW TO BUILD ON TOP OF DEGENFOLIO </b>
+<b> A DEVELOPER'S TOOLKIT : HOW TO BUILD ON TOP OF DEGENFOLIO </b>
 
 -- You can gather transactional data for your APIs from the blockchain or trading platforms (Coinbase, Binance etc) using this tool. \
 -- Yield aggregators can be build on top of the tool to gather assets over multichains and invest them to maximize yield. \
